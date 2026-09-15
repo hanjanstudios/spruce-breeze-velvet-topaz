@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hannah Janicke | REALTOR® · DRE 2370979",
+      "hasCanvas": false,
+      "bodyTextLen": 2823,
+      "bodyTextHash": "315a67f7fce170fc0feeb9e185fdb9e356faad60147273f37addd83836da9b15",
+      "bodyTextPrefix": "Hannah Janicke Hannah Janicke · DRE 2370979 Ask Book a time REAL",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hannah Janicke | REALTOR® · DRE 2370979",
+      "hasCanvas": false,
+      "bodyTextLen": 2494,
+      "bodyTextHash": "fcdce3688bc2c7359beef59e7c617c108676ee509178162d177a44b4c5924d49",
+      "bodyTextPrefix": "Hannah Janicke Hannah Janicke · DRE 2370979 Book a time REALTOR®",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
